@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Ijaz Khan (@paktun)
+- 👀 I’m interested in Flutter, Dart, UI/UX prototyping, AI, and data science.
+- 🌱 I’m currently learning advanced AI techniques and how to integrate data science into mobile applications.
+- 💞️ I’m looking to collaborate on Flutter projects, AI-powered mobile apps, and innovative UI/UX design.
+- 📫 How to reach me: You can contact me via GitHub or email me at [ijaz.dev.khan@gmail.com].
+- 😄 Pronouns: He
+- ⚡ Fun fact: I love exploring the intersection of mobile development and AI to create smarter, more intuitive apps.
